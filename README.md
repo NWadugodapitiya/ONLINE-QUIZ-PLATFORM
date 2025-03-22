@@ -1,24 +1,24 @@
-# ONLINE QUIZ PLATFORM 🎯
+# SimpleBankingApp 🏦
 
-**ONLINE QUIZ PLATFORM** is a Java-based application designed to host and manage quizzes using a MySQL database. It offers a seamless experience for both administrators and users, allowing quiz management, participation, and result tracking.
+**SimpleBankingApp** is a lightweight Java-based application designed to perform essential banking operations. It provides a simple and intuitive interface to manage account transactions like deposits, withdrawals, and balance inquiries.
 
 ## 🚀 Features
-- **Admin Panel:**
-  - Create, edit, and delete quizzes
-  - Manage quiz questions and answers
-- **User Portal:**
-  - Attempt quizzes in a user-friendly interface
-  - View real-time results and performance reports
-- **Result Management:**
-  - Track and analyze user progress
-- **Authentication:**
-  - Secure login system for admins and users
+- **Deposit Funds**: Easily add money to your account.
+- **Withdraw Funds**: Securely withdraw money with sufficient balance.
+- **Check Balance**: Instantly view your current account balance.
+- **Simple Interface**: Clean and user-friendly design.
 
 ## 🛠️ Technologies Used
-- **Java** - Application Development
-- **MySQL** - Database Management
-- **JDBC** - Database Connectivity
-- **Swing/AWT** - Graphical User Interface
+- **Java** - For core application development
+- **JDBC (Optional)** - For database integration if needed in the future
+- **Swing/AWT** - For GUI (if applicable)
+
+## 🚀 Getting Started
+
+### Prerequisites
+Ensure you have the following installed on your system:
+- Java Development Kit (JDK)
+- Java IDE (Eclipse, IntelliJ IDEA, or NetBeans)
 
 ## 📷 Screenshot
 *(Add screenshots here if available)*
@@ -28,7 +28,6 @@
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
----
 
-Enjoy using **ONLINE QUIZ PLATFORM** and make learning more engaging! 🚀
+Enjoy using **SimpleBankingApp** for effortless account management! 🚀
 
